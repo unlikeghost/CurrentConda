@@ -1,8 +1,8 @@
 ### Custom themes
 set fish_greeting ""
 
-eval (/home/linuxbrew/.linuxbrew/bin/brew shellenv)
-eval "$(oh-my-posh init fish --config $(brew --prefix oh-my-posh)/themes/tokyonight_storm.omp.json)"
+#eval (/home/linuxbrew/.linuxbrew/bin/brew shellenv)
+#eval "$(oh-my-posh init fish --config $(brew --prefix oh-my-posh)/themes/tokyonight_storm.omp.json)"
 
 ### Auto activate conda ###
 set -x CONDACONFIGDIR ""
